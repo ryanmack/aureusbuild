@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.57.94.88
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699651338527
+  login: 1699651116095
+money: '0'
+last-account-name: Crezyman
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 0.5
+  y: -60.0
+  z: 0.5
+  yaw: -46.65000915527344
+  pitch: 16.050004959106445
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -93.90414908482154
+  y: -59.5
+  z: -482.4704010692495
+  yaw: -91.59165954589844
+  pitch: 7.349654674530029

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.120.255.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1703778995319
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1703797118761
+  login: 1703796059643
+money: '0'
+last-account-name: DeskLamp01
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -1061.884049210128
+  y: -59.86827221635961
+  z: -525.5800216063255
+  yaw: 50.95361328125
+  pitch: -25.694299697875977
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -1092.4415827548735
+  y: -60.0
+  z: -467.3168337299172
+  yaw: 87.91357421875
+  pitch: 67.34996795654297

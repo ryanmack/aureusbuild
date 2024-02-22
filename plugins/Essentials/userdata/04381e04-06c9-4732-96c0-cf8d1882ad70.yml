@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 97.126.16.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699254181330
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699254433283
+  login: 1699254117903
+money: '0'
+last-account-name: Garama
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 40.146017624811115
+  y: -46.79042621551982
+  z: -160.0799423147785
+  yaw: -77.29386138916016
+  pitch: 36.22791290283203
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -25.75207286349912
+  y: 20.975664665111587
+  z: -483.41338334724463
+  yaw: 145.00531005859375
+  pitch: 70.9945297241211

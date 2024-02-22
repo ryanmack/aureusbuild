@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 75.224.15.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697573679652
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697573780809
+  login: 1697572742465
+money: '0'
+last-account-name: BlakeHasCorona
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 72.73061665059689
+  y: -36.6489247406866
+  z: -354.6365257214363
+  yaw: 150.794189453125
+  pitch: 17.2948055267334
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -118.4288131178213
+  y: -60.0
+  z: -330.7270586436944
+  yaw: -133.21630859375
+  pitch: -16.861974716186523

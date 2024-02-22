@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.199.27.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697242620199
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697242966000
+  login: 1697238509331
+money: '0'
+last-account-name: _Asherr_
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -590.0192501394627
+  y: -33.0
+  z: -370.3272153207132
+  yaw: -141.58213806152344
+  pitch: 21.600486755371094
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -2292.8395511810663
+  y: -37.0
+  z: -2558.050000011921
+  yaw: -54.83544921875
+  pitch: 22.64921760559082

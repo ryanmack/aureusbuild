@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 145.40.132.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702393333973
+  login: 1702319390254
+money: '0'
+last-account-name: ThSolarWolf
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -846.527767721742
+  y: -6.879917763828662
+  z: 295.7910733262499
+  yaw: 149.17288208007812
+  pitch: 30.222553253173828
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 11.258339737079767
+  y: -12.256864287820408
+  z: -464.76692651676655
+  yaw: -18.595458984375
+  pitch: 19.013586044311523

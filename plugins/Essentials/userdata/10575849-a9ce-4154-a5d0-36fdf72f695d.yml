@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 99.248.190.255
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701799535636
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704749999258
+  login: 1704615994426
+money: '0'
+last-account-name: Pokoroa
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -1883.2802862859573
+  y: -2.7205294060724077
+  z: 2207.154584512147
+  yaw: -152.3065948486328
+  pitch: 64.04956817626953
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -1316.5314470889264
+  y: -33.13199985494262
+  z: 801.8115819776094
+  yaw: -2.360687255859375
+  pitch: 46.50026321411133
+homes:
+  home:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -1256.2240208355352
+    y: -2.2586755566609185
+    z: 1070.6789917754675
+    yaw: -18.54288101196289
+    pitch: 35.55015182495117

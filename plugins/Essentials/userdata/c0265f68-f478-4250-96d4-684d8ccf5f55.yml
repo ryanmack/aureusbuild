@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 96.231.110.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698453824569
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698539922899
+  login: 1698539724328
+money: '0'
+last-account-name: Th3RealSylv
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 15.420751948246084
+  y: 21.88749701315048
+  z: -323.13583230134134
+  yaw: 137.7845916748047
+  pitch: 18.850337982177734
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 16.621071600056144
+  y: -59.5
+  z: -529.5517713108211
+  yaw: -146.64312744140625
+  pitch: 64.03616333007812

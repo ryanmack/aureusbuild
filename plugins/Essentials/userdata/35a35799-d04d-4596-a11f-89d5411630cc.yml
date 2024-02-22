@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 74.3.183.238
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705629408753
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705637614639
+  login: 1705636752535
+money: '0'
+last-account-name: Adara_
+lastlocation:
+  world: ae3e865d-f7e1-4950-88cb-9e5694446bfd
+  world-name: Chorus
+  x: 4427.236275227855
+  y: 131.88454298691042
+  z: -584.8655871935936
+  yaw: 114.59384155273438
+  pitch: 52.50101852416992
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 118.17604955786086
+  y: -31.071083497843567
+  z: -1378.2257010138994
+  yaw: -63.755615234375
+  pitch: 48.8997917175293

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.25.214.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697816479053
+  login: 1697815932005
+money: '0'
+last-account-name: GameOnFinn
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -148.97172408036963
+  y: 89.79673560066871
+  z: 244.8431032818544
+  yaw: -13.4915771484375
+  pitch: 14.700080871582031
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -267.35471326446356
+  y: 24.90779718977031
+  z: -475.6602086431986
+  yaw: -120.0108642578125
+  pitch: 31.349397659301758

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.49.119.191
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698926840181
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698927241130
+  login: 1698922859285
+money: '0'
+last-account-name: Ulifer
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 988.2090968877345
+  y: 40.53596367953827
+  z: -303.9351608076166
+  yaw: 93.8656005859375
+  pitch: 6.94224739074707
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 917.2654569406077
+  y: 31.743138692408976
+  z: -272.63953764633226
+  yaw: -90.13555908203125
+  pitch: 6.7524213790893555

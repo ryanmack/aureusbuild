@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.166.34.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1703868103311
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1703868412161
+  login: 1703868382939
+money: '0'
+last-account-name: GlacedWater
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -197.05509975531385
+  y: 7.728518150917454
+  z: -94.08867731157017
+  yaw: 134.85089111328125
+  pitch: 33.30009078979492
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -673.5488948185537
+  y: -15.560531419548221
+  z: -153.07447436307905
+  yaw: 103.49295806884766
+  pitch: 62.249305725097656

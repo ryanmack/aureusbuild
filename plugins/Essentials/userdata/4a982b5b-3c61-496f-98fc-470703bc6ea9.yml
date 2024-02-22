@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 209.206.91.29
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698896250816
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698896296628
+  login: 1698895600281
+money: '0'
+last-account-name: McBanky
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 95.12785147048216
+  y: 17.05432336859877
+  z: -509.99824811968375
+  yaw: 53.646240234375
+  pitch: 16.374698638916016
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -29.13936301272532
+  y: -60.0
+  z: -594.9385274774374
+  yaw: 3.23785400390625
+  pitch: 38.94895553588867

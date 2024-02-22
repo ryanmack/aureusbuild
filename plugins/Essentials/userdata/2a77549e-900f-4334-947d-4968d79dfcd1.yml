@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.233.65.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705701116980
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706546323100
+  login: 1706542404699
+money: '0'
+last-account-name: byggarebob002
+lastlocation:
+  world: ae3e865d-f7e1-4950-88cb-9e5694446bfd
+  world-name: Chorus
+  x: 4405.679881954264
+  y: 194.74258797745026
+  z: -5.174000421880582
+  yaw: -56.426509857177734
+  pitch: 29.100217819213867
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -810.0622771804458
+  y: -42.5
+  z: 921.3725315118814
+  yaw: 96.10089111328125
+  pitch: 11.099729537963867

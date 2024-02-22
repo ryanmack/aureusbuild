@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 74.51.0.153
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697777559910
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698198257950
+  login: 1698197499840
+money: '0'
+last-account-name: Fqwkes
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 2455.198614337122
+  y: -60.0
+  z: -1975.8428576748747
+  yaw: -176.00047302246094
+  pitch: 13.316254615783691
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 2429.5316846841847
+  y: -57.86889285855031
+  z: -1984.5922461084992
+  yaw: -167.6611328125
+  pitch: -5.144107341766357

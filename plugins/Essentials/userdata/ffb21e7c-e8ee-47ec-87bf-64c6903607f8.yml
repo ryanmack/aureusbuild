@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.99.209.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1700925110381
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701785508517
+  login: 1701785497162
+money: '0'
+last-account-name: Domibanana
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -188.89469035943455
+  y: -60.0
+  z: -558.8721526190268
+  yaw: 4.941381931304932
+  pitch: 15.339523315429688
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -69.12597936736398
+  y: 37.57498430927921
+  z: -481.57207708308664
+  yaw: -113.92390441894531
+  pitch: 2.4906182289123535

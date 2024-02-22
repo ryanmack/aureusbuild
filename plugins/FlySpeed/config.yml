@@ -1,0 +1,8 @@
+prefix: '&3[FlySpeed] '
+no-permission: '&cYou do not have permission to do this!'
+flight-enabled: '&6Enabled flight for %player%'
+flight-disabled: '&6Disabled flight for %player%'
+default-speed:
+  '1':
+    permission: flyspeed.speed.1
+    speed: 0.5

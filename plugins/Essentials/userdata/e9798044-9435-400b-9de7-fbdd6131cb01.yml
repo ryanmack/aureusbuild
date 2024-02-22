@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.195.41.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697844781132
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701611403965
+  login: 1701611085805
+money: '0'
+last-account-name: StrongholdMafia
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -34.43322142147363
+  y: -35.746330555961286
+  z: -479.99945488589213
+  yaw: -20.239652633666992
+  pitch: 22.880504608154297
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -21.272649645364165
+  y: -43.65988248145468
+  z: -470.2403438582716
+  yaw: 106.85760498046875
+  pitch: 6.5670485496521

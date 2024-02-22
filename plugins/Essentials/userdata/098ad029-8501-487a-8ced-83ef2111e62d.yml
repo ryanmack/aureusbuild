@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.145.22.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697558193651
+  login: 1697557624691
+money: '0'
+last-account-name: 110Justix
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -14.864366956384526
+  y: -34.34297287505578
+  z: -791.4172390993444
+  yaw: -164.5430908203125
+  pitch: 13.216806411743164
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -24.196203714976583
+  y: -58.587895016521784
+  z: -409.03181587506907
+  yaw: -151.6622314453125
+  pitch: 20.717100143432617

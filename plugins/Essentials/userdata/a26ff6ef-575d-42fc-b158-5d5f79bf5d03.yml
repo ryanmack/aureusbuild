@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.69.169.157
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1696972316766
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696972333584
+  login: 1696971212058
+money: '0'
+last-account-name: Tsun321
+lastlocation:
+  world: 5fb77394-ba46-48bc-8663-f4547a6b62fc
+  world-name: ROCKGYM
+  x: 111.43758667091451
+  y: 65.0
+  z: 36.69999998807907
+  yaw: 60.64817810058594
+  pitch: 5.8727850914001465
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -2199.2562971858097
+  y: -49.0
+  z: -2569.3603045413092
+  yaw: 24.825511932373047
+  pitch: 17.24956703186035

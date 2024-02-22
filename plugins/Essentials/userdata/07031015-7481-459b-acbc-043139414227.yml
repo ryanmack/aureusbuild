@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.11.160.48
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1700797821858
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704916590541
+  login: 1704915821749
+money: '0'
+logoutlocation:
+  world: ae3e865d-f7e1-4950-88cb-9e5694446bfd
+  world-name: Chorus
+  x: 4463.65679988509
+  y: 97.0
+  z: -581.5883802766143
+  yaw: 128.23309326171875
+  pitch: 14.399879455566406
+last-account-name: Tsun213
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -1030.6855950897348
+  y: -22.632137285720408
+  z: -1410.1977860561628
+  yaw: -33.38723373413086
+  pitch: -23.40082359313965

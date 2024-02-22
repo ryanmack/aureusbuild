@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.166.101.17
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699782986895
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699785555884
+  login: 1699782975038
+money: '0'
+last-account-name: fynd1
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 224.5349678676637
+  y: 2.368195277153343
+  z: -488.02223756640126
+  yaw: -170.38055419921875
+  pitch: 38.17902755737305
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 221.9879674989767
+  y: 8.988718493583924
+  z: -490.89439397190307
+  yaw: -149.60452270507812
+  pitch: 43.735557556152344

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.21.180.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1704513715737
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704626724487
+  login: 1704626716445
+money: '0'
+last-account-name: Emperor_Kyborg
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 947.1910761218018
+  y: -37.014770703771134
+  z: -1115.805094465205
+  yaw: -36.3427734375
+  pitch: 7.180662155151367
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -51.73161649082974
+  y: 72.892664244948
+  z: -478.4626345196813
+  yaw: -8.95715618133545
+  pitch: 47.72758865356445

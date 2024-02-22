@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 71.61.59.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699823462746
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699905197192
+  login: 1699905191331
+money: '0'
+last-account-name: RLNGO
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -1319.7459390687873
+  y: -9.013933330464294
+  z: 188.9835663563132
+  yaw: 119.89803314208984
+  pitch: 21.787086486816406
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -1262.176469464295
+  y: 6.24307226423138
+  z: 329.14675919011734
+  yaw: 87.99560546875
+  pitch: 30.072277069091797

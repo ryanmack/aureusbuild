@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 136.54.87.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1700533481035
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702873666512
+  login: 1702873661216
+money: '0'
+last-account-name: Saliz10
+lastlocation:
+  world: acab6e3d-a2bf-4d99-a462-83451bfa0c98
+  world-name: Flatworld
+  x: -995.6750659067995
+  y: 112.13409830856732
+  z: 195.5301268062387
+  yaw: 64.90237426757812
+  pitch: 35.35008239746094
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -65.02359630243583
+  y: -10.166428669092
+  z: -417.78402820434775
+  yaw: -65.58499145507812
+  pitch: 22.222692489624023

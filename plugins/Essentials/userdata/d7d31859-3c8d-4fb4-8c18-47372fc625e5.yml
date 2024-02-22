@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.54.139.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699471917548
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701265305827
+  login: 1701258300417
+money: '0'
+last-account-name: Alexfoolery
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -66.91032092999092
+  y: -43.13584756636788
+  z: -767.2115810356664
+  yaw: -104.35186767578125
+  pitch: 22.835601806640625
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 671.8391653724699
+  y: -51.620886942638776
+  z: -603.219153542193
+  yaw: 92.85614013671875
+  pitch: 18.783618927001953
+homes:
+  slum:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -96.98298981400276
+    y: -60.0
+    z: -488.2884731707373
+    yaw: -117.08544921875
+    pitch: 18.758502960205078
+  scal:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: 685.4351200074375
+    y: -60.0
+    z: -599.4506654833887
+    yaw: -89.5595703125
+    pitch: 35.37710189819336

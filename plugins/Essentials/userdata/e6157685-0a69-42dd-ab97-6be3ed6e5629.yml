@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.213.141.58
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701812175242
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705184386240
+  login: 1705184265434
+money: '0'
+last-account-name: Clone3A7
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -396.6278053030374
+  y: -6.353333501055777
+  z: 590.4079974026173
+  yaw: 153.7249298095703
+  pitch: 14.773038864135742
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 520.9323840147264
+  y: 26.831565428015892
+  z: -719.5164007264407
+  yaw: -110.570556640625
+  pitch: 10.44762134552002

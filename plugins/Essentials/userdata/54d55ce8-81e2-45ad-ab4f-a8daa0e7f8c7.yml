@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 173.179.23.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1704523021882
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705368181194
+  login: 1705364136528
+money: '0'
+last-account-name: Vandetti
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 81.66138792982152
+  y: 35.96786774412166
+  z: -471.4499696005668
+  yaw: 4.894073486328125
+  pitch: -7.350038051605225
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -33.10623949767082
+  y: -55.10869589744222
+  z: -569.2170719061402
+  yaw: -8.14105224609375
+  pitch: 2.10060977935791

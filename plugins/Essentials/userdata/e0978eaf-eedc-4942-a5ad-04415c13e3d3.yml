@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 24.141.217.139
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1700699827916
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700963758576
+  login: 1700958498961
+money: '0'
+last-account-name: KMC159
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -25.185262149031388
+  y: -45.29274850484399
+  z: -304.96268623352154
+  yaw: -178.79354858398438
+  pitch: 9.150026321411133
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -1042.987256729591
+  y: -35.0
+  z: -1518.2578081821289
+  yaw: -0.171875
+  pitch: 16.649797439575195
+homes:
+  aurorastaffwarp:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -358.63412896074067
+    y: -57.0
+    z: -593.5233142389054
+    yaw: -179.45751953125
+    pitch: 2.548999309539795
+  auroragym:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -1039.9723258936435
+    y: -21.0
+    z: -1044.005743820912
+    yaw: -177.79539489746094
+    pitch: 22.94837760925293
+  psychicgym:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -1056.7115268773732
+    y: -60.0
+    z: -1192.9677655524802
+    yaw: -178.9131317138672
+    pitch: 12.89947509765625

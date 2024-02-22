@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 74.102.145.116
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698243099082
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701116958176
+  login: 1701115584840
+money: '0'
+last-account-name: Jeffeej
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 170.59074951920405
+  y: -60.0
+  z: 75.21484839719868
+  yaw: -15.176017761230469
+  pitch: 5.91408634185791
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 158.17458055988544
+  y: -20.496307264533048
+  z: 73.15508798692562
+  yaw: -147.49661254882812
+  pitch: -0.5192314386367798
+homes:
+  home:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: 179.5
+    y: -27.0
+    z: 61.5
+    yaw: 88.9560546875
+    pitch: 51.5386848449707

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 96.234.18.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697572864860
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697756389999
+  login: 1697756223680
+money: '0'
+last-account-name: Subterra_Network
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 148.15026567889214
+  y: -60.0
+  z: 61.255466938596946
+  yaw: -134.21337890625
+  pitch: 13.369625091552734
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 158.37700560778853
+  y: -61.0
+  z: 75.30000001192093
+  yaw: 167.4014434814453
+  pitch: 8.606575012207031

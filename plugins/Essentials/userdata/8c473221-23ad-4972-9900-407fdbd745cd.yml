@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 113.210.105.231
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698599909201
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698600007452
+  login: 1698599530163
+money: '0'
+last-account-name: BowMaster_
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -62.434447081856106
+  y: -1.7999999523162842
+  z: -466.2783769203674
+  yaw: 63.76055908203125
+  pitch: 23.223983764648438
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -30.738109405237648
+  y: -57.55533297984444
+  z: -441.2892791431458
+  yaw: -22.3448486328125
+  pitch: 42.22142028808594

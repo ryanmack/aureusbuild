@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.140.9.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698280205482
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699235266577
+  login: 1699235263607
+money: '0'
+last-account-name: johnsmat
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -37.293990995762734
+  y: -21.815131839953036
+  z: -436.898320442304
+  yaw: 16.892114639282227
+  pitch: 22.798263549804688
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -39.873759811035086
+  y: -3.4953528138826795
+  z: -357.0594490187189
+  yaw: -167.632568359375
+  pitch: 20.84971046447754

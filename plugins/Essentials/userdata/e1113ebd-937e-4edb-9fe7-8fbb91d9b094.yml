@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.211.71.10
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699417733951
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699418636526
+  login: 1699414418412
+money: '0'
+last-account-name: LadyXade
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -27.86206047312865
+  y: -20.0
+  z: -481.35370820849
+  yaw: -120.2760009765625
+  pitch: 8.549839973449707
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -50.445211674353004
+  y: -60.0
+  z: -470.58176458768173
+  yaw: 169.0065155029297
+  pitch: 25.200037002563477

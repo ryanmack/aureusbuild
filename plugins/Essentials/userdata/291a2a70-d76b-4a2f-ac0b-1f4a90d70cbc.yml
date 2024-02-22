@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.151.53.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697567451155
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705093089096
+  login: 1705092754667
+money: '0'
+last-account-name: ShadowDude_HD
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -4.1673781096448685
+  y: -53.910739089597456
+  z: -445.8512175219888
+  yaw: -150.285888671875
+  pitch: 27.194284439086914
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 118.00005344834962
+  y: -50.26448096191223
+  z: 59.09159502366377
+  yaw: 111.75567626953125
+  pitch: 32.438602447509766

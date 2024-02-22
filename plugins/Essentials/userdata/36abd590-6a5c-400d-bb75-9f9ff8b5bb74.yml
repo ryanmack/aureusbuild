@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.53.145.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697490521913
+  login: 1697487036298
+money: '0'
+last-account-name: Ferbez
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 14.708886392951117
+  y: -52.302009144129926
+  z: -526.1760036782313
+  yaw: -133.89122009277344
+  pitch: 50.400352478027344
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 1.890733341278852
+  y: -53.19475415158163
+  z: -551.3301183154803
+  yaw: 126.7667236328125
+  pitch: 17.100948333740234

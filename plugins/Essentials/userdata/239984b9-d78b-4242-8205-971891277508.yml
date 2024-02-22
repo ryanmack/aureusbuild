@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.165.202.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697558206500
+  login: 1697558185806
+money: '0'
+last-account-name: xWhiteSheep
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -11.658262949381697
+  y: 7.481002795589106
+  z: -440.53866340711437
+  yaw: -92.039794921875
+  pitch: 37.715213775634766
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -27.74909648478595
+  y: -54.62853624838077
+  z: -305.2832270640751
+  yaw: -179.7793426513672
+  pitch: -9.238637924194336

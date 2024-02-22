@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 125.238.103.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699403860830
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699403899477
+  login: 1699403829719
+money: '0'
+last-account-name: SebbyV
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 2.160439346785447
+  y: 37.03827532884871
+  z: -387.5651749798274
+  yaw: -90.02886962890625
+  pitch: 26.90507698059082
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 18.602217564086484
+  y: -24.995003133805344
+  z: -742.4627658957444
+  yaw: 67.216796875
+  pitch: 2.3369150161743164

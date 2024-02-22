@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.65.160.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1702758703199
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702761459511
+  login: 1702758545305
+money: '0'
+last-account-name: SyForge
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 213.59796572231892
+  y: -60.0
+  z: 201.17217444517308
+  yaw: -119.24993896484375
+  pitch: 51.900177001953125
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 553.2243913146154
+  y: -60.0
+  z: -2073.080020397032
+  yaw: -65.42350769042969
+  pitch: 10.350193977355957
+homes:
+  newgym:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: 344.3948780242933
+    y: -60.0
+    z: -2024.1154415486867
+    yaw: -20.549631118774414
+    pitch: 74.10013580322266

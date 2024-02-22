@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.148.104.123
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705974597049
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705974638439
+  login: 1705974114139
+money: '0'
+last-account-name: GhostLion_
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -109.65998948704316
+  y: 65.98704484151712
+  z: 254.70765850008314
+  yaw: -117.45015716552734
+  pitch: 12.200078010559082
+logoutlocation:
+  world: 5fb77394-ba46-48bc-8663-f4547a6b62fc
+  world-name: ROCKGYM
+  x: -61.631554486849225
+  y: 76.0
+  z: -172.613370901327
+  yaw: 11.132232666015625
+  pitch: 15.417384147644043

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.4.144.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697577146166
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697577765801
+  login: 1697577042594
+money: '0'
+last-account-name: Rickmerico
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -0.4960056736536943
+  y: -21.14794782479063
+  z: -54.19083854211137
+  yaw: -146.9165496826172
+  pitch: 64.88725280761719
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 86.23081751742419
+  y: -32.18703633238165
+  z: -678.8865774997
+  yaw: 27.4761962890625
+  pitch: 19.730634689331055

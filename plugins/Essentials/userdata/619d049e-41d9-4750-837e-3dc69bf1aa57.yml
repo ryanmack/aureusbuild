@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.168.17.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697653431747
+  login: 1697653398594
+money: '0'
+last-account-name: Kayeda
+lastlocation:
+  world: 64de6c62-828c-4a01-a91b-1dfbb496718f
+  world-name: world
+  x: -32.0
+  y: 69.0
+  z: 48.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 2.2537562266763502
+  y: -59.0
+  z: -4.469792647592016
+  yaw: -117.89997863769531
+  pitch: 31.949996948242188

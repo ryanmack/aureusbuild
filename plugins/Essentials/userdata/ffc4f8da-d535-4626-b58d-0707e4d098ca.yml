@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 71.230.49.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697559975553
+  login: 1697559948491
+money: '0'
+last-account-name: CommitWarCrimes
+lastlocation:
+  world: 64de6c62-828c-4a01-a91b-1dfbb496718f
+  world-name: world
+  x: -32.0
+  y: 69.0
+  z: 48.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 0.5
+  y: -60.0
+  z: 0.5
+  yaw: -46.65000915527344
+  pitch: 16.050004959106445

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.215.176.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1696793554511
+  login: 1696793311272
+money: '0'
+last-account-name: Kibinai
+lastlocation:
+  world: 64de6c62-828c-4a01-a91b-1dfbb496718f
+  world-name: world
+  x: -32.0
+  y: 69.0
+  z: 48.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -4.135182244146341
+  y: -60.0
+  z: 11.143290038924222
+  yaw: -9.730712890625
+  pitch: 24.47663116455078

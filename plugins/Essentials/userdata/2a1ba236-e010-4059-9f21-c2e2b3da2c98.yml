@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.40.231.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701738386394
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701742335761
+  login: 1701742270454
+money: '0'
+last-account-name: Excitant1
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -35.52965130182706
+  y: 7.084007261288861
+  z: -377.2405170724686
+  yaw: -148.9453125
+  pitch: 10.75070858001709
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 521.4735794641695
+  y: 2.1051259794773136
+  z: -761.9436455123963
+  yaw: -163.36441040039062
+  pitch: 5.333880424499512
+homes:
+  build:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -31.918769157719442
+    y: -60.0
+    z: -623.2860727157989
+    yaw: -3.67864990234375
+    pitch: -0.10398870706558228

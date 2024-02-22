@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.135.59.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1703532926740
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1703541599420
+  login: 1703532907807
+money: '0'
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -330.52908523464356
+  y: -36.231146168857826
+  z: 571.7343610565952
+  yaw: -71.70343017578125
+  pitch: 46.16082763671875
+last-account-name: N1ahh
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -569.4510925497394
+  y: -29.0
+  z: -426.3502075623355
+  yaw: 3.7443463802337646
+  pitch: 11.295510292053223
+homes:
+  notiddies:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -131.9677476371806
+    y: -60.0
+    z: -63.63733735049152
+    yaw: -6.75762939453125
+    pitch: 17.381336212158203
+  niahtrees:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -97.45322788132447
+    y: -60.0
+    z: 446.99750012938483
+    yaw: 2.53399658203125
+    pitch: 28.990747451782227
+  ghost:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -495.0261459722719
+    y: -60.0
+    z: 531.9319752583966
+    yaw: 165.29818725585938
+    pitch: -0.511038601398468

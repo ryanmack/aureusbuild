@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 71.63.175.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700541512528
+  login: 1700540946767
+money: '0'
+last-account-name: Jeropod
+lastlocation:
+  world: 64de6c62-828c-4a01-a91b-1dfbb496718f
+  world-name: world
+  x: -32.0
+  y: 69.0
+  z: 48.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 561.8375170459178
+  y: -60.0
+  z: 25.324817828735746
+  yaw: -158.23004150390625
+  pitch: -2.5296618938446045

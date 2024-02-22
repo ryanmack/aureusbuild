@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 69.255.36.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699414812183
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699506031631
+  login: 1699504908458
+money: '0'
+last-account-name: bigboyyacht
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 22.22747580557121
+  y: -33.8482700012811
+  z: -473.74267077074654
+  yaw: 5.54681396484375
+  pitch: 2.9302690029144287
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -12.030175059023037
+  y: -21.98585488518396
+  z: -533.8474536315533
+  yaw: 100.86181640625
+  pitch: 21.549287796020508

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.165.2.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699596927983
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699597120477
+  login: 1699596571277
+money: '0'
+last-account-name: CosmosV2
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -258.5091994679781
+  y: 54.520016698603214
+  z: -507.6344342329674
+  yaw: 134.508056640625
+  pitch: 37.64439392089844
+logoutlocation:
+  world: acab6e3d-a2bf-4d99-a462-83451bfa0c98
+  world-name: Flatworld
+  x: -707.6966030524602
+  y: 183.72336821205548
+  z: -1574.616661208823
+  yaw: 1.0490223169326782
+  pitch: 31.451894760131836

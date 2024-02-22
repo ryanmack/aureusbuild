@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.227.14.171
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697601539601
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699414018178
+  login: 1699413994766
+money: '0'
+last-account-name: SilentStormSix
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -161.0941378028332
+  y: -52.61193675197304
+  z: -176.7534533818053
+  yaw: 15.617923736572266
+  pitch: 6.288670539855957
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -124.4071419943665
+  y: -34.858705417480714
+  z: 23.195295364640405
+  yaw: 98.43402099609375
+  pitch: 26.700435638427734

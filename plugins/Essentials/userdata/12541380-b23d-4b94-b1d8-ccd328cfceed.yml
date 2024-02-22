@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 71.230.49.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697575118110
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700541378577
+  login: 1700541324873
+money: '0'
+last-account-name: Sovrah
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -86.83756677514268
+  y: 4.131071087395594
+  z: -346.0067075375259
+  yaw: -149.6096954345703
+  pitch: 8.649682998657227
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -37.72378306313711
+  y: -22.29507994406192
+  z: -475.264846329373
+  yaw: 73.70352172851562
+  pitch: 4.629419803619385

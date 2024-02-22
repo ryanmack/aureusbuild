@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.246.140.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697478977380
+  login: 1697478957354
+money: '0'
+last-account-name: SeanTrebeck
+lastlocation:
+  world: 64de6c62-828c-4a01-a91b-1dfbb496718f
+  world-name: world
+  x: -32.0
+  y: 69.0
+  z: 48.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -2.5402113324434477
+  y: -60.0
+  z: -2.5073224027074135
+  yaw: 63.094520568847656
+  pitch: 1.2326194047927856

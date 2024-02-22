@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 71.88.215.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1704749448752
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704755208178
+  login: 1704749999376
+money: '0'
+last-account-name: EpikNyan_
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -891.5
+  y: -60.0
+  z: -416.5
+  yaw: -115.10757446289062
+  pitch: 49.98721694946289
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -920.5
+  y: -60.0
+  z: -347.5
+  yaw: -118.32234954833984
+  pitch: 46.583335876464844

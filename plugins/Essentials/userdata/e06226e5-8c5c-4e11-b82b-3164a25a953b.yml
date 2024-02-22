@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.149.97.244
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1699052483896
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699052839781
+  login: 1699052445579
+money: '0'
+last-account-name: holycannon110
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -739.7216354560442
+  y: 9.612866053160793
+  z: 329.6716156031286
+  yaw: -46.25814437866211
+  pitch: 26.879613876342773
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -85.79140489639983
+  y: -53.072499573988935
+  z: -508.26490727305276
+  yaw: 96.281982421875
+  pitch: -0.5817260146141052

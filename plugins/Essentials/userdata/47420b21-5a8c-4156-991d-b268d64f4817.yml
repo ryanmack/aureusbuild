@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.85.126.254
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1706108267863
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706108553945
+  login: 1706108260084
+money: '0'
+last-account-name: Zartakor
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -1231.2843084733888
+  y: -9.03454985854048
+  z: 1057.9387972976904
+  yaw: 58.20320510864258
+  pitch: 32.55034637451172
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -1774.1326689037962
+  y: -48.42096434561506
+  z: -2551.5449402328472
+  yaw: -1.9600934982299805
+  pitch: 10.798986434936523
+homes:
+  fun:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -1775.5252824594752
+    y: -10.144374782983917
+    z: -2538.189986512504
+    yaw: 178.9393310546875
+    pitch: -8.700312614440918
+  deco:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -1270.26227441054
+    y: -38.283815455669355
+    z: 521.6570843842461
+    yaw: -42.755462646484375
+    pitch: 53.100486755371094

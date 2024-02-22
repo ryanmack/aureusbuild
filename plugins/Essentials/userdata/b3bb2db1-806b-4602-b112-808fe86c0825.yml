@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 84.23.141.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705686777757
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705686948943
+  login: 1705686116571
+money: '0'
+last-account-name: Lossed
+lastlocation:
+  world: acab6e3d-a2bf-4d99-a462-83451bfa0c98
+  world-name: Flatworld
+  x: -961.5
+  y: 133.0
+  z: -1204.5
+  yaw: 3.049931526184082
+  pitch: 12.468282699584961
+logoutlocation:
+  world: acab6e3d-a2bf-4d99-a462-83451bfa0c98
+  world-name: Flatworld
+  x: 23.93041805642704
+  y: 102.24272267686892
+  z: -1502.0879079219906
+  yaw: 70.19271087646484
+  pitch: 21.44215202331543
+homes:
+  home:
+    world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+    world-name: Building
+    x: -61.3303464219558
+    y: -60.0
+    z: -48.61248208077734
+    yaw: -98.76953125
+    pitch: 36.040809631347656

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.146.10.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698149052301
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705754999097
+  login: 1705754007348
+money: '0'
+last-account-name: mstr_0fExplosion
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 536.895752866298
+  y: -42.58165473305983
+  z: 52.9772227928946
+  yaw: 164.27774047851562
+  pitch: -1.6203794479370117
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 120.1577832698813
+  y: 28.605127084047698
+  z: -482.44516151480127
+  yaw: -37.57940673828125
+  pitch: 8.060029029846191

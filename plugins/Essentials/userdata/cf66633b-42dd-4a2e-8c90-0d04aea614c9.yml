@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 67.175.87.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1704726295091
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704726917350
+  login: 1704725114669
+money: '0'
+last-account-name: BuilderSam4
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -944.9349524007309
+  y: -12.484406046745281
+  z: 655.0267170569334
+  yaw: 175.62496948242188
+  pitch: 59.655364990234375
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -810.7925358125863
+  y: -11.29789721951233
+  z: 803.7839637330269
+  yaw: -83.42596435546875
+  pitch: 27.59381103515625

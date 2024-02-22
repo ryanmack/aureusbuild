@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.52.242.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702485724713
+  login: 1702485721612
+money: '0'
+last-account-name: Mr_BoB__
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -852.0999149317689
+  y: -52.7438161983684
+  z: 387.88319841103566
+  yaw: -90.87899780273438
+  pitch: -1.6381977796554565
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -948.5232861709497
+  y: -34.31453334058813
+  z: 428.7745886991804
+  yaw: -25.97016143798828
+  pitch: 28.499820709228516

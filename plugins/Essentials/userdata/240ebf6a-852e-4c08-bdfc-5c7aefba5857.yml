@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.40.191.138
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1698619014215
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701043727928
+  login: 1701043436998
+money: '0'
+last-account-name: G0qurt
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 5.517922507812769
+  y: -60.0
+  z: 7.862257539857194
+  yaw: 5.699220180511475
+  pitch: 17.764503479003906
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -5.152356429785271
+  y: -12.0
+  z: -408.80011451257957
+  yaw: -155.18963623046875
+  pitch: 33.08620071411133

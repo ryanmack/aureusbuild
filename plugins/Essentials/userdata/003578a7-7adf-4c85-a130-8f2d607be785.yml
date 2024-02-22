@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.127.130.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1702759287238
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702759295961
+  login: 1702759278782
+money: '0'
+last-account-name: Barend110
+lastlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: -10.027591405208211
+  y: -52.63201318328861
+  z: -478.7716745921503
+  yaw: 73.9357681274414
+  pitch: 2.901106834411621
+logoutlocation:
+  world: e35e7543-3d1b-4888-b89c-30ae5e3adc7b
+  world-name: Building
+  x: 669.8293197202042
+  y: 2.1473267817079797
+  z: -2103.43946013649
+  yaw: 70.89807891845703
+  pitch: 10.079099655151367

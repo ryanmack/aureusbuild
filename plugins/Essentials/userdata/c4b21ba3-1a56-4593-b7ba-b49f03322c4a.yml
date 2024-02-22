@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 50.92.223.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1704917434062
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706319718142
+  login: 1706319580709
+money: '0'
+last-account-name: DeroTurtle
+lastlocation:
+  world: acab6e3d-a2bf-4d99-a462-83451bfa0c98
+  world-name: Flatworld
+  x: -1069.1577836189317
+  y: 169.4675110080231
+  z: -1112.0744788081265
+  yaw: 135.3636474609375
+  pitch: 11.490910530090332
+logoutlocation:
+  world: ae3e865d-f7e1-4950-88cb-9e5694446bfd
+  world-name: Chorus
+  x: 4309.2692524633885
+  y: 174.97812123103864
+  z: -285.4781294197816
+  yaw: 71.82110595703125
+  pitch: 47.37543869018555
