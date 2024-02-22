@@ -3,3 +3,4 @@
 .mca filter=lfs diff=lfs merge=lfs -text
 .png filter=lfs diff=lfs merge=lfs -text
 .dat.old filter=lfs diff=lfs merge=lfs -text
+.db filter=lfs diff=lfs merge=lfs -text
