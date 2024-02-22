@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-04-24 19:26:12 -0700",
+      "minecraft:taiga": "2019-04-24 19:42:44 -0700",
+      "minecraft:desert": "2019-04-24 19:39:40 -0700"
+    },
+    "done": false
+  }
+}

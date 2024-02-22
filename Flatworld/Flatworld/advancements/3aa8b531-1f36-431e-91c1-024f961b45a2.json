@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2018-06-02 23:14:54 -0700",
+      "desert": "2018-06-17 00:37:07 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-06-30 18:35:09 -0700"
+    },
+    "done": true
+  }
+}

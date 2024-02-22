@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2018-06-20 08:36:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2018-06-20 08:25:31 -0700"
+    },
+    "done": false
+  }
+}

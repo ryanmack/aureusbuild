@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-05-26 12:29:45 -0700",
+      "minecraft:taiga": "2019-05-26 12:31:41 -0700",
+      "minecraft:desert": "2019-05-26 12:29:55 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}

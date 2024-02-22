@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2018-06-18 20:40:28 -0700",
+      "desert": "2018-06-18 20:41:40 -0700"
+    },
+    "done": false
+  }
+}
